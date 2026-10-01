@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy>=2,<3
+pydantic>=2,<3
+email-validator
